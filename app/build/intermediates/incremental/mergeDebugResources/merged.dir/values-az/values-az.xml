@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"%1$s saniyə sonra pəncərə bağlanacaq."</item>
+    <item priority="translator" quantity="other">"%1$s saniyə sonra pəncərə bağlanacaq."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Seçimi %1$s gün yadda saxlayın"</item>
+    <item priority="Reviewed" quantity="other">"Seçimi %1$s gün yadda saxlayın"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d saniyə"</item>
+    <item priority="LT" quantity="other">"%1$d saniyə"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Evə naviqasiya et"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yuxarı get"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Digər variantlar"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hazırdır"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Hamısına baxın"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Tətbiq seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEAKTİV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTİV"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"silin"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"daxil olun"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funksiya+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"kosmos"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menyu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Axtarış..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorğunu təmizlə"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Axtarış sorğusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Axtarış"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorğunu göndərin"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Səsli axtarış"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bununla paylaşın"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ilə paylaşın"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yığışdırın"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Reklam"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s quraşdırılıb"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Quraşdırma tamamlandı. Açmaq üçün toxunun."</string>
+    <string name="hiad_app_permission" priority="LT">"İcazələr"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Reklam gizlədilib"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Maraqlanmıram"</string>
+    <string name="hiad_choices_hide" priority="translator">"Reklamı gizlədin"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Nəyə görə bu reklamı görürəm?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Mobil şəbəkə %1$s verilənlərdən istifadə edəcəkdir. Davam etsin?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Təkrar ifa zamanı mobil şəbəkədən istifadə olunacaqdır. Davam etsin?"</string>
+    <string name="hiad_continue_download" priority="LT">"Endirin"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ENDİRIN"</string>
+    <string name="hiad_continue_to_play" priority="LT">"DAVAM ET"</string>
+    <string name="hiad_copy_link" priority="LT">"Keçidi köçür"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Proqram"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Ötür"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"%d ərzində ötürün"</string>
+    <string name="hiad_detail" priority="LT">"Təfərrüatlar"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Endirin"</string>
+    <string name="hiad_dialog_accept" priority="translator">"İCAZƏ VER"</string>
+    <string name="hiad_dialog_allow" priority="LT">"İCAZƏ VER"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"LƏĞV ET"</string>
+    <string name="hiad_dialog_close" priority="translator">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"YÜKLƏMƏ"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ANLADIM"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s-ə %2$s-i quraşdırmaq üçün icazə verilsin?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Mənbə: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"İCAZƏ VERİN"</string>
+    <string name="hiad_dialog_open" priority="LT">"AÇIN"</string>
+    <string name="hiad_dialog_reject" priority="LT">"RƏDD ET"</string>
+    <string name="hiad_dialog_title" priority="LT">"Mobil şəbəkədən istifadə etməklə endirilsin?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Qeyd"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Mobil məlumatlardan istifadə etməklə endirilsin?"</string>
+    <string name="hiad_download_download" priority="translator">"QURAŞDIR"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"ENDİRİN (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s endirən zaman səhv baş verdi."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fayl zədəlidir Lütfən, yenidən endirin."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fayl mövcud deyil. Lütfən, yenidən cəhd edin."</string>
+    <string name="hiad_download_install" priority="LT">"QURAŞDIR"</string>
+    <string name="hiad_download_installing" priority="translator">"QURAŞDIRILIR"</string>
+    <string name="hiad_download_no_space" priority="LT">"Yaddaşda yer azdır. Yaddaşı bir az boşaldın və yenidən cəhd edin."</string>
+    <string name="hiad_download_open" priority="LT">"AÇ"</string>
+    <string name="hiad_download_resume" priority="LT">"DAVAM ET"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s endirilən zaman səhv baş verdi. Yükləmə yenidən başladılacaqdır."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Hazırda Wi-Fi bağlantınız yoxdur. İndi endirmək %1$s mobil şəbəkədən istifadə edəcək. Yenə də endirilsin?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Hazırda WLAN bağlantınız yoxdur. İndi endirmək %1$s mobil şəbəkədən istifadə edəcək. Yenə də endir?"</string>
+    <string name="hiad_install_completed" priority="LT">"Hazırdır"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Bu səhifə açmaq istəyir: %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Keçid köçürüldü."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Bu endirmə %1$s mobil məlumatlar istifadə edəcək."</string>
+    <string name="hiad_network_error" priority="LT">"Şəbəkə bağlantısı xətası."</string>
+    <string name="hiad_network_no_available" priority="LT">"İnternet bağlantısı yoxdur. Lütfən, şəbəkə parametrlərinizi yoxlayın."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Bir daha xatırlatma"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Wi-Fi bağlantısı yoxdur. İndi endirmək mobil məlumatlarınızdan istifadə edəcək. Endirilsin?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"WLAN bağlantısı yoxdur. İndi endirmək mobil məlumatlarınızdan istifadə edəcək. Endirilsin?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Brauzerdə aç"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Səhifə yüklənə bilmir. Lütfən, yenidən cəhd edin."</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"%1$s aşağıdakı icazələri tələb edir:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi-ı gözləyin"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Mobil şəbəkə vasitəsilə endirilsin?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"WLAN-ı gözləyin"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Məxfilik siyasəti"</string>
+    <string name="hiad_refresh" priority="LT">"Təzələ"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Proqram %1$d MB-dan böyükdür"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ötürün"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"İzləməyə davam edin"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Mükafat qazanmaq üçün bu reklamı izləyib sona çatdırın."</string>
+    <string name="hiad_whether_download" priority="LT">"Bu proqram endirilsin?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi vasitəsilə əvvəldən yüklənib"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Əvvəlcədən yüklənmiş"</string>
+    <string name="hms_abort" priority="translator">"Dayandır"</string>
+    <string name="hms_abort_message" priority="translator">"Yükləmə dayandırılsın?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s HMS Core-dan istifadə edə bilmir. Optimallaşdırıcını (Telefon Menecerini) işə salın və ya Parametrlərə keçin, %2$s (avtomatik işəsalma və ikinci başlatma daxil olmaqla) üçün bütün icazələri aktivləşdirin."</string>
+    <string name="hms_cancel" priority="translator">"Ləğv et"</string>
+    <string name="hms_check_failure" priority="translator">"Yenilənmələri yoxlamaq mümkün olmadı."</string>
+    <string name="hms_checking" priority="translator">"Yeniləmələr yoxlanır…"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"HMS Core paketini yükləmək mümkün olmadı."</string>
+    <string name="hms_download_no_space" priority="translator">"Kifayət qədər boş yer yoxdur. Yükləməni tamamlamaq mümkün deyil."</string>
+    <string name="hms_download_retry" priority="translator">"Yükləmə baş tutmadı. Təkrar cəhd edilsin?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Endirilir"</string>
+    <string name="hms_install" priority="translator">"Quraşdırın"</string>
+    <string name="hms_install_message" priority="translator">"Bu funksiyanı istifadə etmək üçün HMS Core quraşdırılmalıdır. Quraşdırılsın?"</string>
+    <string name="hms_push_channel" priority="Original">"Standart"</string>
+    <string name="hms_retry" priority="translator">"Təkrar cəhd et"</string>
+    <string name="hms_update" priority="translator">"Yenilə"</string>
+    <string name="hms_update_continue" priority="translator">"Yüklə"</string>
+    <string name="hms_update_message" priority="translator">"Bu funksiyanı istifadə etmək üçün HMS Core-ı ən son versiyasına yeniləyin. İndi yenilənsin?"</string>
+    <string name="hms_update_message_new" priority="LT">"Bu xidmət aşağıdakı proqramın ən son versiyasını tələb edir:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Wi-Fi bağlantısı yoxdur. Mobil məlumatlardan istifadə edilərək endirilsin?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Axtarış"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Quraşdır"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"%s endirilir…"</string>
+    <string name="upsdk_app_size" priority="translator">"Ölçü"</string>
+    <string name="upsdk_app_version" priority="translator">"Versiya"</string>
+    <string name="upsdk_appstore_install" priority="translator">"Bu proqramı yeniləmək üçün %s tələb edilir. İndi quraşdırılsın?"</string>
+    <string name="upsdk_cancel" priority="translator">"Ləğv et"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Yeniləmələr yoxlanılır…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Yeniləmə mövcuddur. Ən son versiyanı yükləyin və qurun."</string>
+    <string name="upsdk_detail" priority="translator">"Təfərrüatlar"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Məlumatları əldə etmək mümkün deyil. Az sonra yenidən cəhd edin."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Hazırda mobil şəbəkəyə qoşulmusunuz. İndi endirmək %1$s verilənlər istifadə edəcək."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"İnternet bağlantısı yoxdur. Şəbəkə parametrlərinizi yoxlayın."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Proqram"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Sonra"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Çıxış"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Yenilə"</string>
+    <string name="upsdk_ota_title" priority="translator">"Yeni versiya"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Quraşdırma ləğv olunsun?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Quraşdırma baş tutmadı."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Bəli"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Versiyanız yenidir."</string>
+</resources>

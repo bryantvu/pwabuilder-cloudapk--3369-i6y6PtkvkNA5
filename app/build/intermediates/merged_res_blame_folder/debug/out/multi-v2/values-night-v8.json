@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\pwabuilder-cloudapk--3369-i6y6PtkvkNA5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\896563450c32f050ac7b2c5a5016dd7b\\ads-lang-13.4.32.300\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,169,229,288",
+                        "endColumns": "49,63,59,58,56",
+                        "endOffsets": "100,164,224,283,340"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\3865d715380f371ca1c9d96797bdf8b9\\appcompat-v7-28.0.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "345,415,499,583,679,781,883",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "410,494,578,674,776,878,972"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+        <item priority="translator" quantity="one">"سيُغلق مربع الحوار هذا تلقائيًا في غضون ثانية واحدة."</item>
+        <item priority="translator" quantity="zero">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثواني."</item>
+        <item priority="translator" quantity="two">"سيُغلق مربع الحوار هذا تلقائيًا في غضون ثانيتين."</item>
+        <item priority="translator" quantity="few">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثواني."</item>
+        <item priority="translator" quantity="many">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثانية."</item>
+        <item priority="translator" quantity="other">"سيُغلق مربع الحوار هذا تلقائيًا في غضون %1$s ثانية."</item>
+    </plurals>
+    <plurals name="hiad_no_prompt_in_days">
+        <item priority="translator" quantity="one">"تذكر الاختيار لمدة يوم واحد"</item>
+        <item priority="translator" quantity="zero">"تذكر الاختيار لمدة %1$s أيام"</item>
+        <item priority="translator" quantity="two">"تذكر الاختيار لمدة يومين"</item>
+        <item priority="translator" quantity="few">"تذكر الاختيار لمدة %1$s أيام"</item>
+        <item priority="translator" quantity="many">"تذكر الاختيار لمدة %1$s يومًا"</item>
+        <item priority="translator" quantity="other">"تذكر الاختيار لمدة %1$s يوم"</item>
+    </plurals>
+    <plurals name="hiad_reward_countdown">
+        <item priority="LT" quantity="one">"ثانية واحدة"</item>
+        <item priority="translator" quantity="zero">"%1$d ثواني"</item>
+        <item priority="LT" quantity="two">"ثانيتان"</item>
+        <item priority="LT" quantity="few">"%1$d ثواني"</item>
+        <item priority="translator" quantity="many">"%1$d ثانية"</item>
+        <item priority="translator" quantity="other">"%1$d ثانية"</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="hiad_ad_label" priority="translator">"إعلان"</string>
+    <string name="hiad_ad_label_new" priority="translator">"إعلان"</string>
+    <string name="hiad_app_installed" priority="LT">"تم تثبيت تطبيق \"%1$s\""</string>
+    <string name="hiad_app_open_notification" priority="translator">"اكتمل التثبيت. انقر هنا لفتحه."</string>
+    <string name="hiad_app_permission" priority="LT">"الأذونات"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"الإعلان مخفي"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"غير مهتم"</string>
+    <string name="hiad_choices_hide" priority="LT">"إخفاء الإعلان"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"ما سبب ظهور هذا الإعلان؟"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"استخدام بيانات الجوال سيؤدي إلى استهلاك %1$s من البيانات. هل تريد المتابعة؟"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"سيتم استخدام بيانات الجوال لتشغيل هذا الفيديو. هل ترغب في المتابعة؟"</string>
+    <string name="hiad_continue_download" priority="LT">"تنزيل"</string>
+    <string name="hiad_continue_download_new" priority="LT">"تنزيل"</string>
+    <string name="hiad_continue_to_play" priority="LT">"متابعة"</string>
+    <string name="hiad_copy_link" priority="LT">"نسخ الرابط"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s م.ب"</string>
+    <string name="hiad_default_app_name" priority="translator">"اسم التطبيق:"</string>
+    <string name="hiad_default_skip_text" priority="translator">"تخطي"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"تخطي %d"</string>
+    <string name="hiad_detail" priority="LT">"التفاصيل"</string>
+    <string name="hiad_detail_download_now" priority="LT">"تنزيل"</string>
+    <string name="hiad_dialog_accept" priority="LT">"سماح"</string>
+    <string name="hiad_dialog_allow" priority="LT">"سماح"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"إلغاء"</string>
+    <string name="hiad_dialog_close" priority="LT">"حسنًا"</string>
+    <string name="hiad_dialog_continue" priority="LT">"تنزيل"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"حسنًا"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"هل تسمح أن يقوم \"%1$s\" بتثبيت تطبيق \"%2$s\"؟"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"المصدر: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"سماح"</string>
+    <string name="hiad_dialog_open" priority="LT">"فتح"</string>
+    <string name="hiad_dialog_reject" priority="LT">"رفض"</string>
+    <string name="hiad_dialog_title" priority="LT">"تنبيه"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"تنويه"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"هل حقًا تريد استخدام بيانات الجوال للتنزيل؟"</string>
+    <string name="hiad_download_download" priority="translator">"تثبيت"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"تنزيل (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"حدثت مشكلة أثناء تنزيل \"%1$s\""</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"الملف معطوب، يُرجى إعادة تنزيله"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"الملف غير موجود، يُرجى إعادة المحاولة"</string>
+    <string name="hiad_download_install" priority="LT">"تثبيت"</string>
+    <string name="hiad_download_installing" priority="LT">"قيد التثبت"</string>
+    <string name="hiad_download_no_space" priority="LT">"مساحة التخزين غير كافية، يُرجى تفريغ بعض المساحة وإعادة المحاولة"</string>
+    <string name="hiad_download_open" priority="LT">"فتح"</string>
+    <string name="hiad_download_resume" priority="translator">"استئناف"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"حدثت مشكلة أثناء تنزيل \"%1$s\"، وسيتم إعادة بدء التنزيل"</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"جهازك غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى باستخدام بيانات الجوال سيؤدي إلى استهلاك %1$s. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="translator">"جهازك غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى باستخدام بيانات الجوال سيؤدي إلى استهلاك %1$s. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_install_completed" priority="LT">"تم"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"ترغب هذه الصفحة في فتح \"%1$s\"."</string>
+    <string name="hiad_link_already_copied" priority="LT">"تم نسخ الرابط"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"سيستهلك هذا التنزيل حوالي %1$s من بيانات الجوال."</string>
+    <string name="hiad_network_error" priority="LT">"مشكلة في اتصال الشبكة"</string>
+    <string name="hiad_network_no_available" priority="LT">"لا يوجد اتصال إنترنت لديك، يُرجى التحقق من إعدادات الشبكة"</string>
+    <string name="hiad_no_more_remind" priority="LT">"عدم التذكير مرةً أخرى"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"الجهاز غير متصل بشبكة لاسلكية، وتنزيل هذا المحتوى الآن سيؤدي إلى استخدام بيانات الجوال. هل حقًا تريد تنزيله؟"</string>
+    <string name="hiad_open_in_browser" priority="LT">"فتح في المتصفح"</string>
+    <string name="hiad_page_load_failed" priority="LT">"تعذر تحميل الصفحة، يُرجى إعادة المحاولة"</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"يطلب تطبيق \"%1$s\" الحصول على الأذونات التالية:"</string>
+    <string name="hiad_prepare_download" priority="LT">"استخدام شبكة لاسلكية"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"هل تريد التنزيل باستخدام بيانات الجوال؟"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"استخدام شبكة لاسلكية"</string>
+    <string name="hiad_privacy_policy" priority="translator">"سياسة الخصوصية"</string>
+    <string name="hiad_refresh" priority="LT">"تحديث المحتوى"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"حجم التطبيق أكبر من %1$d ميغابايت"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"تخطي"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"استكمال المشاهدة"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"شاهد هذا الإعلان إلى نهايته لتحصل على جائزة."</string>
+    <string name="hiad_whether_download" priority="LT">"هل تريد تنزيل هذا التطبيق؟"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"تم تحميله مُسبقًا عبر الشبكة اللاسلكية"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"تم التحميل مُسبقًا"</string>
+    <string name="hms_abort" priority="translator">"إيقاف"</string>
+    <string name="hms_abort_message" priority="translator">"هل تريد إيقاف التنزيل؟"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"\"%1$s\" غير قادر على استخدام خدمات HMS Core. يُرجى تشغيل مدير الهاتف أو الانتقال إلى الإعدادات، وتشغيل جميع أذونات %2$s (بما في ذلك التشغيل التلقائي، والتشغيل الثانوي)، وإعادة المحاولة."</string>
+    <string name="hms_cancel" priority="translator">"إلغاء"</string>
+    <string name="hms_check_failure" priority="translator">"تعذر التحقق من وجود تحديثات."</string>
+    <string name="hms_checking" priority="translator">"جارِ التحقق من وجود تحديثات..."</string>
+    <string name="hms_confirm" priority="translator">"حسنًا"</string>
+    <string name="hms_download_failure" priority="translator">"تعذر تنزيل حزمة خدمات HMS Core."</string>
+    <string name="hms_download_no_space" priority="translator">"لا يمكن استكمال التنزيل لعدم وجود مساحة تخزينية كافية."</string>
+    <string name="hms_download_retry" priority="translator">"تعذر التنزيل. هل تريد المحاولة مجددًا؟"</string>
+    <string name="hms_downloading_loading" priority="LT">"قيد التنزيل..."</string>
+    <string name="hms_install" priority="translator">"تثبيت"</string>
+    <string name="hms_install_message" priority="translator">"يجب تثبيت خدمات HMS Core لاستخدام هذه الميزة. هل تريد تثبيتها؟"</string>
+    <string name="hms_push_channel" priority="Original">"الافتراضي"</string>
+    <string name="hms_retry" priority="translator">"إعادة المحاولة"</string>
+    <string name="hms_update" priority="translator">"تحديث"</string>
+    <string name="hms_update_continue" priority="LT">"تنزيل"</string>
+    <string name="hms_update_message" priority="translator">"قم بتحديث خدمات HMS Core إلى أحدث إصدار متوفر لكي تتمكن من استخدام هذه الميزة. هل تريد التحديث الآن؟"</string>
+    <string name="hms_update_message_new" priority="LT">"هذه الخدمة تحتاج إلى وجود أحدث إصدار للتطبيق التالي:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"جهازك غير متصل بشبكة لاسلكية. هل تريد التنزيل باستخدام بيانات الجوال؟"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"تثبيت"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"جاري تنزيل \"%s\"..."</string>
+    <string name="upsdk_app_size" priority="translator">"الحجم:"</string>
+    <string name="upsdk_app_version" priority="LT">"الإصدار:"</string>
+    <string name="upsdk_appstore_install" priority="translator">"مطلوب تثبيت \"%s\" لتتمكن من تحديث هذا التطبيق. هل تريد تثبيته الآن؟"</string>
+    <string name="upsdk_cancel" priority="translator">"إلغاء"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"جارِ التحقق من وجود تحديثات..."</string>
+    <string name="upsdk_choice_update" priority="LT">"هناك تحديث متوفر، يُرجى تنزيل وتثبيت أحدث إصدار."</string>
+    <string name="upsdk_detail" priority="translator">"التفاصيل"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"غير قادر على الحصول على المعلومات، يُرجى إعادة المحاولة لاحقًا"</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"أنت الآن متصل بشبكة بيانات الجوال، وتنزيل هذا المحتوى الآن سيؤدي إلى استهلاك %1$s من بيانات الجوال."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"غير متصل بالإنترنت، يُرجى التحقق من إعدادات الشبكة لديك"</string>
+    <string name="upsdk_ota_app_name" priority="LT">"اسم التطبيق:"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"لاحقًا"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"خروج"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"تحديث"</string>
+    <string name="upsdk_ota_title" priority="translator">"إصدار جديد"</string>
+    <string name="upsdk_storage_utils" priority="translator">"%1$s م.ب"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"هل تريد إلغاء التثبيت؟"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"تعذر التثبيت"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"نعم"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"أنت الآن تستخدم أحدث إصدار"</string>
+</resources>

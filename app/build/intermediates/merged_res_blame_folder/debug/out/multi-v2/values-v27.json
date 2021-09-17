@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\pwabuilder-cloudapk--3369-i6y6PtkvkNA5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Downloads\\Futurewei\\pwabuilder-cloudapk--3369-i6y6PtkvkNA5\\app\\src\\main\\res\\values-v27\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "409"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "408"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"%1$s ছেকেণ্ডত উইণ্ড\' বন্ধ হ\'ব।"</item>
+    <item priority="translator" quantity="other">"%1$s ছেকেণ্ডত উইণ্ড\' বন্ধ হ\'ব।"</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"%1$s দিনৰ বাবে পছন্দ মনত ৰাখক"</item>
+    <item priority="Reviewed" quantity="other">"%1$s দিনৰ বাবে পছন্দ মনত ৰাখক"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d ছেকেণ্ড"</item>
+    <item priority="LT" quantity="other">"%1$d ছেকেণ্ড"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"গৃহ পৃষ্ঠালৈ যাওক"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ওপৰলৈ যাওক"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"অধিক বিকল্প"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"সম্পন্ন কৰা হ\'ল"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"সকলো চাওক"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"এটা এপ্ বাছনি কৰক"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"অফ কৰক"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"অন কৰক"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"CTRL+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"মচক"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"এণ্টাৰ"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"ফাংশ্বন+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"মেটা+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"শ্বিফ্ট+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"স্পেচ"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"মেনু+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"অনুসন্ধান কৰক…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"প্ৰশ্ন মচক"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"সন্ধান কৰিব খোজা প্ৰশ্ন"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"সন্ধান কৰক"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"প্ৰশ্ন দাখিল কৰক"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"কণ্ঠধ্বনিৰ যোগেৰে সন্ধান কৰক"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>ৰ জৰিয়তে শ্বেয়াৰ কৰক"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"সংকুচিত কৰক"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"বিজ্ঞাপন"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s ইনষ্টল কৰা হৈছে"</string>
+    <string name="hiad_app_open_notification" priority="translator">"ইনষ্টলেশ্বন সম্পূৰ্ণ হ\'ল। খুলিবলৈ স্পৰ্শ কৰক।"</string>
+    <string name="hiad_app_permission" priority="LT">"অনুমতিসমূহ"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"বিজ্ঞাপন লুকুওৱা হৈছে"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"আগ্ৰহী নহয়"</string>
+    <string name="hiad_choices_hide" priority="LT">"বিজ্ঞাপন লুকুৱাওক"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"মই এই বিজ্ঞাপনটো কিয় দেখা পাই আছো?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"ম\'বাইল নেটৱৰ্ক ব্যৱহাৰ কৰাৰ ফলত %1$s ডাটা খৰচ হ\'ব। অব্যাহত ৰাখিবনে?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"প্লেবেকে ম\'বাইল ডাটা ব্যৱহাৰ কৰিব। অব্যাহত ৰাখিবনে?"</string>
+    <string name="hiad_continue_download" priority="LT">"ডাউনলোড কৰক"</string>
+    <string name="hiad_continue_download_new" priority="LT">"ডাউনলোড কৰক"</string>
+    <string name="hiad_continue_to_play" priority="translator">"অব্যাহত ৰাখক"</string>
+    <string name="hiad_copy_link" priority="LT">"লিংক প্ৰতিলিপি কৰক"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"এপ্প্‌"</string>
+    <string name="hiad_default_skip_text" priority="translator">"এৰি যাওক"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"%d-লৈ এৰি যাওক"</string>
+    <string name="hiad_detail" priority="translator">"বিৱৰণ"</string>
+    <string name="hiad_detail_download_now" priority="LT">"ডাউনলোড কৰক"</string>
+    <string name="hiad_dialog_accept" priority="LT">"অনুমতি দিয়ক"</string>
+    <string name="hiad_dialog_allow" priority="LT">"অনুমতি দিয়ক"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"বাতিল কৰক"</string>
+    <string name="hiad_dialog_close" priority="LT">"ঠিক"</string>
+    <string name="hiad_dialog_continue" priority="LT">"ডাউনলোড কৰক"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"লাভ কৰিছো"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%2$s ইনষ্টল কৰিবলৈ %1$s-ক অনুমতি দিবনে?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"উৎস: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"অনুমতি দিয়ক"</string>
+    <string name="hiad_dialog_open" priority="LT">"খোলক"</string>
+    <string name="hiad_dialog_reject" priority="LT">"অস্বীকাৰ কৰক"</string>
+    <string name="hiad_dialog_title" priority="LT">"ম\'বাইল ডাটা ব্যৱহাৰ কৰি ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"টোকা"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"ম\'বাইল ডাটা ব্যৱহাৰ কৰি ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_download_download" priority="translator">"ইনষ্টল কৰক"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"ডাউনলোড কৰক (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"%1$s ডাউনলোড কৰাৰ সময়ত এটা ত্ৰুটি ঘটিছে।"</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"ফাইল দূষিত হৈছে। অনুগ্ৰহ কৰি পুনৰ ডাউনলোড কৰক।"</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"ফাইল মজুত নাই। অনুগ্ৰহ কৰি পুনঃচেষ্টা কৰক।"</string>
+    <string name="hiad_download_install" priority="LT">"ইনষ্টল কৰক"</string>
+    <string name="hiad_download_installing" priority="LT">"ইনষ্টল হৈ আছে"</string>
+    <string name="hiad_download_no_space" priority="LT">"সংগ্ৰহস্থান পৰ্যাপ্ত নহয়। কিছু স্থান মুক্ত কৰক আৰু পুনঃচেষ্টা কৰক।"</string>
+    <string name="hiad_download_open" priority="LT">"খোলক"</string>
+    <string name="hiad_download_resume" priority="LT">"অব্যাহত ৰাখক"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"%1$s ডাউনলোড কৰাৰ সময়ত এটা ত্ৰুটি ঘটিছে। ডাউনলোড পুনৰাৰম্ভ হ\'ব।"</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"আপুনি সাম্প্ৰতিক Wi-Fi-লৈ সংযোজিত হোৱা নাই। এতিয়া ডাউনলোড কৰিলে %1$s ম\'বাইল ডাটা ব্যৱহাৰ হ\'ব। যিকোনো উপায়েৰে ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"আপুনি সাম্প্ৰতিক WLAN-লৈ সংযোজিত হোৱা নাই। এতিয়া ডাউনলোড কৰিলে %1$s ম\'বাইল ডাটা ব্যৱহাৰ হ\'ব। যিকোনো উপায়েৰে ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_install_completed" priority="LT">"সম্পন্ন হ\'ল"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"এই পৃষ্ঠাই %1$s খুলিবলৈ বিচাৰিছে।"</string>
+    <string name="hiad_link_already_copied" priority="LT">"লিংক প্ৰতিলিপি কৰা হ\'ল।"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"এই ডাউনলোডে %1$s ম\'বাইল ডাটা ব্যৱহাৰ কৰিব।"</string>
+    <string name="hiad_network_error" priority="translator">"নেটৱৰ্ক সংযোগ ত্ৰুটি।"</string>
+    <string name="hiad_network_no_available" priority="LT">"কোনো ইণ্টাৰনেট সংযোগ নাই। অনুগ্ৰহ কৰি আপোনাৰ নেটৱৰ্ক ছেটিংচ পৰীক্ষা কৰক।"</string>
+    <string name="hiad_no_more_remind" priority="LT">"মোক পুনৰ সোঁৱৰাই নিদিব"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"কোনো Wi-Fi সংযোগ নাই। এতিয়া ডাউনলোড কৰিলে আপোনাৰ ম\'বাইল ডাটা ব্যৱহাৰ হ\'ব। ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"কোনো WLAN সংযোগ নাই। এতিয়া ডাউনলোড কৰিলে আপোনাৰ ম\'বাইল ডাটা ব্যৱহাৰ হ\'ব। ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"ব্ৰাউজাৰত খোলক"</string>
+    <string name="hiad_page_load_failed" priority="LT">"পৃষ্ঠা লোড কৰাত অক্ষম। অনুগ্ৰহ কৰি পুনঃচেষ্টা কৰক।"</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s-ক নিম্নোক্ত অনুমতিসমূহৰ আৱশ্যক:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Wi-Fi-ৰ বাবে অপেক্ষা কৰক"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"ম\'বাইল নেটৱৰ্কৰ যোগেদি ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"WLAN-ৰ বাবে অপেক্ষা কৰক"</string>
+    <string name="hiad_privacy_policy" priority="LT">"গোপনীয়তা নীতি"</string>
+    <string name="hiad_refresh" priority="LT">"সতেজ কৰক"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB-তকৈ ডাঙৰ এপ্প্"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"এৰি যাওক"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"চাই থাকক"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"এটা পুৰষ্কাৰ পাবলৈ এই বিজ্ঞাপনটো চোৱাটো সমাপ্ত কৰক।"</string>
+    <string name="hiad_whether_download" priority="LT">"এই এপ্প্‌টো ডাউনলোড কৰিবনে?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wi-Fi-ৰ যোগেদি পূৰ্বে-লোড হৈছে"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"পূৰ্বেলোড কৰা"</string>
+    <string name="hms_abort" priority="translator">"বন্ধ কৰক"</string>
+    <string name="hms_abort_message" priority="translator">"ডাউনলোড কৰা বন্ধ কৰিবনে?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s-এ HMS Core ব্যৱহাৰ কৰাত অক্ষম। অনুকূলক (ফোন মেনেজাৰ) প্ৰাৰম্ভ কৰক বা ছেটিংচলৈ যাওক, %2$s-ৰ বাবে সকলো অনুমতি সক্ষম কৰক (স্বয়ং-প্ৰাৰম্ভ আৰু প্ৰাথমিক প্ৰাৰম্ভক অন্তৰ্ভুক্ত কৰি) আৰু পুনঃচেষ্টা কৰক।"</string>
+    <string name="hms_cancel" priority="translator">"বাতিল কৰক"</string>
+    <string name="hms_check_failure" priority="translator">"উন্নীতৰ বাবে পৰীক্ষা কৰাত বিফল হৈছে।"</string>
+    <string name="hms_checking" priority="translator">"উন্নীতৰ বাবে পৰীক্ষা কৰি আছে..."</string>
+    <string name="hms_confirm" priority="translator">"ঠিক"</string>
+    <string name="hms_download_failure" priority="translator">"HMS Core পেকেজ ডাউনলোড কৰাত বিফল হৈছে।"</string>
+    <string name="hms_download_no_space" priority="translator">"পৰ্যাপ্ত মুক্ত স্থান নাই। ডাউনলোড সম্পূৰ্ণ কৰিব নোৱাৰি।"</string>
+    <string name="hms_download_retry" priority="translator">"ডাউনলোড বিফল হৈছে। পুনঃচেষ্টা কৰিবনে?"</string>
+    <string name="hms_downloading_loading" priority="LT">"ডাউনলোড কৰি আছে"</string>
+    <string name="hms_install" priority="translator">"ইনষ্টল কৰক"</string>
+    <string name="hms_install_message" priority="translator">"এই ফিচাৰ ব্যৱহাৰ কৰিবলৈ HMS Core ডাউনলোড কৰিবই লাগিব। ইনষ্টল কৰিবনে?"</string>
+    <string name="hms_push_channel" priority="Original">"ডিফ\'ল্ট"</string>
+    <string name="hms_retry" priority="translator">"পুনঃচেষ্টা কৰক"</string>
+    <string name="hms_update" priority="translator">"উন্নীত কৰক"</string>
+    <string name="hms_update_continue" priority="LT">"ডাউনলোড"</string>
+    <string name="hms_update_message" priority="translator">"এই ফিচাৰ ব্যৱহাৰ কৰিবলৈ HMS Core-ৰ শেহতীয়া সংস্কৰণলৈ উন্নীত কৰক। এতিয়া উন্নীত কৰিবনে?"</string>
+    <string name="hms_update_message_new" priority="translator">"এই সেৱাক নিম্নোক্ত এপ্প্‌ৰ শেহতীয়া সংস্কৰণটোৰ আৱশ্যক:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"কোনো Wi-Fi সংযোগ নাই। ম\'বাইল ডাটা ব্যৱহাৰ কৰি ডাউনলোড কৰিবনে?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"অনুসন্ধান কৰক"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"ইনষ্টল কৰক"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"%s ডাউনলোড কৰি আছে…"</string>
+    <string name="upsdk_app_size" priority="translator">"আকাৰ"</string>
+    <string name="upsdk_app_version" priority="translator">"সংস্কৰণ"</string>
+    <string name="upsdk_appstore_install" priority="translator">"এই এপ্প্‌টো আপডেট কৰিবলৈ %s-ৰ আৱশ্যক। এতিয়া ইনষ্টল কৰিবনে?"</string>
+    <string name="upsdk_cancel" priority="translator">"বাতিল কৰক"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"আপডেটসমূহৰ বাবে পৰীক্ষা কৰি আছে…"</string>
+    <string name="upsdk_choice_update" priority="translator">"উন্নীত উপলব্ধ। অনুগ্ৰহ কৰি শেহতীয়া সংস্কৰণটো ডাউনলোড আৰু ইনষ্টল কৰক।"</string>
+    <string name="upsdk_detail" priority="translator">"বিৱৰণ"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"তথ্য পুনৰুদ্ধাৰ কৰাত বিফল হৈছে। অনুগ্ৰহ কৰি পিছত পুনঃচেষ্টা কৰক।"</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"আপুনি সাম্প্ৰতিকভাৱে এটা ম\'বাইল নেটৱৰ্কলৈ সংযোগ হৈ আছে। এতিয়া ডাউনলোড কৰিলে %1$s ডাটা ব্যৱহাৰ হ\'ব।"</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"কোনো ইণ্টাৰনেট সংযোগ নাই। অনুগ্ৰহ কৰি আপোনাৰ নেটৱৰ্ক ছেটিংচ পৰীক্ষা কৰক।"</string>
+    <string name="upsdk_ota_app_name" priority="translator">"এপ্প্‌"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"পাছত"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"প্ৰস্থান"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"উন্নীত কৰক"</string>
+    <string name="upsdk_ota_title" priority="translator">"নতুন সংস্কৰণ"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"ইনষ্টলেশ্বন বাতিল কৰিবনে?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"ইনষ্টলেশ্বন বিফল হৈছে।"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"হয়"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"আপোনাৰ সংস্কৰণ আপ টু ডেট হয়।"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorStatus">#3F51B0</color>
+    <color name="colorSplash">#3F51B1</color>
+    <color name="colorNav">#3F51B2</color>
+    <color name="colorNavDivider">#3F51B3</color>
+
+    <color name="shortcut_background">#F5F5F5</color>
+</resources>

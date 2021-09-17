@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Dirisha litajifunga ndani ya sekunde %1$s."</item>
+    <item priority="translator" quantity="other">"Dirisha litajifunga ndani ya sekunde %1$s."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Kumbuka chaguo kwa siku %1$s"</item>
+    <item priority="Reviewed" quantity="other">"Kumbuka chaguo kwa siku %1$s"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"Sekunde %1$d"</item>
+    <item priority="LT" quantity="other">"Sekunde %1$d"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Nenda mwanzo"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nenda juu"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Chaguo zaidi"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Nimemaliza"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Angalia zote"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chagua programu"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"IMEZIMWA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"IMEWASHWA"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"futa"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"nafasi"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menyu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tafuta…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Futa hoja"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tafuta"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wasilisha hoja"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tafuta kwa kutamka"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Shiriki na:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Shiriki ukitumia <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kunja"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Tangazo"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s imesakinishwa"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Usakinishaji umekamilika. Gusa ili kufungua."</string>
+    <string name="hiad_app_permission" priority="LT">"Vibali"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Tangazo limefichwa"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Hainivutii"</string>
+    <string name="hiad_choices_hide" priority="translator">"Ficha tangazo"</string>
+    <string name="hiad_choices_whythisad" priority="translator">"Kwa nini niliona tangazo hili?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="translator">"Kutumia mtandao wa simu kutatumia %1$s data ya. Ungependa kuendelea?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Kucheza kutatumia data ya simu. Ungependa kuendelea?"</string>
+    <string name="hiad_continue_download" priority="LT">"Pakua"</string>
+    <string name="hiad_continue_download_new" priority="LT">"PAKUA"</string>
+    <string name="hiad_continue_to_play" priority="translator">"ENDELEA"</string>
+    <string name="hiad_copy_link" priority="LT">"Nakili kiungo"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"MB %1$s"</string>
+    <string name="hiad_default_app_name" priority="LT">"Programu"</string>
+    <string name="hiad_default_skip_text" priority="translator">"Ruka"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Ruka ndani ya %d"</string>
+    <string name="hiad_detail" priority="translator">"Maelezo"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Pakua"</string>
+    <string name="hiad_dialog_accept" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_allow" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"GHAIRI"</string>
+    <string name="hiad_dialog_close" priority="LT">"Sawa"</string>
+    <string name="hiad_dialog_continue" priority="LT">"PAKUA"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"NIMEELEWA"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Ruhusu %1$s isakinishe %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Chanzo: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"RUHUSU"</string>
+    <string name="hiad_dialog_open" priority="LT">"FUNGUA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"NYIMA"</string>
+    <string name="hiad_dialog_title" priority="LT">"Ungependa kupakua ukitumia data ya simu?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Dokezo"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Pakua kwa kutumia data ya simu?"</string>
+    <string name="hiad_download_download" priority="translator">"SAKINISHA"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"PAKUA (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Hitilafu imetokea wakati wa kupakua %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Faili imeharibika. Tafadhali pakua tena."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Faili haipo. Tafadhali jaribu tena."</string>
+    <string name="hiad_download_install" priority="LT">"SAKINISHA"</string>
+    <string name="hiad_download_installing" priority="LT">"INASAKINISHA"</string>
+    <string name="hiad_download_no_space" priority="LT">"Hifadhi haitoshi. Ongeza nafasi na ujaribu tena."</string>
+    <string name="hiad_download_open" priority="LT">"FUNGUA"</string>
+    <string name="hiad_download_resume" priority="LT">"ENDELEA"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Hitilafu imetokea wakati wa kupakua %1$s. Upakuaji utaanza upya."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Kwa sasa hujaunganishwa kwenye Wi-Fi. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Kwa sasa hujaunganishwa kwenye WLAN. Ukipakua sasa utatumia data ya simu ya %1$s. Ungependa kuendelea kupakua?"</string>
+    <string name="hiad_install_completed" priority="LT">"Imefanyika"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Ukurasa huu unataka kufungua %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Kiungo kimenakiliwa."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Upakuaji huu utatumia %1$s za data ya simu."</string>
+    <string name="hiad_network_error" priority="translator">"Hitilafu kwenye muunganisho wa mtandao."</string>
+    <string name="hiad_network_no_available" priority="LT">"Hamna muunganisho wa mtandao. Tafadhali kagua mipangilio ya mtandao wako."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Usinikumbushe tena"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Hakuna muunganisho wa Wi-Fi. Kupakua sasa kutatumia data yako ya simu. Pakua?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Hakuna muunganisho wa WLAN. Kupakua sasa kutatumia data yako ya simu. Pakua?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Fungua kwenye kivinjari"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Imeshindwa kupakia ukurasa. Tafadhali jaribu tena."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s inahitaji ruhusa zifuatazo:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Ingojee Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Pakua kupitia mtandao wa simu?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Ingojee WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Sera ya faragha"</string>
+    <string name="hiad_refresh" priority="LT">"Onyesha upya"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Programu ni kubwa kuliko MB %1$d"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ruka"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Endelea kutazama"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Maliza kutazama tangazo hili ili kupata tuzo."</string>
+    <string name="hiad_whether_download" priority="LT">"Pakua programu hii?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Imepakiwa awali kupitia Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Imepakiwa awali"</string>
+    <string name="hms_abort" priority="translator">"Sitisha"</string>
+    <string name="hms_abort_message" priority="translator">"Ungependa kusitisha kupakua?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s imeshindwa kutumia HMS Core. Zindua Kiboreshaji (Kidhibiti Simu) au nenda kwenye Mipangilio, wezesha vibali vyote vya %2$s (vikiwemo uzinduzi otomatiki na uzinduzi mbadala), kisha jaribu tena."</string>
+    <string name="hms_cancel" priority="translator">"Ghairi"</string>
+    <string name="hms_check_failure" priority="translator">"Imeshindwa kuangalia masasisho."</string>
+    <string name="hms_checking" priority="translator">"Inakagua uwepo wa sasisho…"</string>
+    <string name="hms_confirm" priority="translator">"Sawa"</string>
+    <string name="hms_download_failure" priority="translator">"Imeshindwa kupakua kifurushi cha HMS Core."</string>
+    <string name="hms_download_no_space" priority="translator">"Hakuna nafasi ya kutosha. Kupakua hakuwezi kukamilishwa"</string>
+    <string name="hms_download_retry" priority="translator">"Upakuaji umeshindikana. Jaribu tena?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Inapakua"</string>
+    <string name="hms_install" priority="translator">"Sakinisha"</string>
+    <string name="hms_install_message" priority="translator">"HMS Core lazima zisakinishwe ili utumie kipengele hiki. Ungependa kusakinisha?"</string>
+    <string name="hms_push_channel" priority="Original">"Chaguo msingi"</string>
+    <string name="hms_retry" priority="translator">"Jaribu tena"</string>
+    <string name="hms_update" priority="translator">"Sasisha"</string>
+    <string name="hms_update_continue" priority="LT">"Pakua"</string>
+    <string name="hms_update_message" priority="translator">"Sasisha upate toleo jipya zaidi la HMS Core ili utumie kipengele hiki. Ungependa kusasisha sasa hivi?"</string>
+    <string name="hms_update_message_new" priority="translator">"Huduma hii inahitaji uwe na toleo jipa zaidi la programu ifuatayo:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Hakuna muunganisho wa Wi-Fi. Pakua kwa kutumia data ya simu?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tafuta"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Sakinisha"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"Inapakua %s…"</string>
+    <string name="upsdk_app_size" priority="translator">"Ukubwa"</string>
+    <string name="upsdk_app_version" priority="translator">"Toleo"</string>
+    <string name="upsdk_appstore_install" priority="translator">"%s inahitajika ili kusasisha programu hii. Sakinisha sasa?"</string>
+    <string name="upsdk_cancel" priority="translator">"Ghairi"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Inaangalia masasisho…"</string>
+    <string name="upsdk_choice_update" priority="translator">"Sasisho linapatikana. Tafadhali pakua na usakinishe toleo jipya."</string>
+    <string name="upsdk_detail" priority="translator">"Maelezo"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Imeshindwa kurejesha maelezo. Tafadhali jaribu tena baadaye."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Umeunganishwa kwa mtandao wa simu kwa sasa. Kupakua sasa kutatumia %1$s za data."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Hamna muunganisho wa mtandao. Tafadhali kagua mipangilio ya mtandao wako."</string>
+    <string name="upsdk_ota_app_name" priority="translator">"Programu"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Baadaye"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"Toka"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Sasisha"</string>
+    <string name="upsdk_ota_title" priority="translator">"Toleo jipya"</string>
+    <string name="upsdk_storage_utils" priority="LT">"MB %1$s"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Ungependa kughairi usakinishaji huu?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Usakinishaji umeshindikana."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Ndiyo"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Toleo lako ni la hivi karibuni."</string>
+</resources>

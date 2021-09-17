@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Az ablak %1$s másodperc múlva bezáródik."</item>
+    <item priority="translator" quantity="other">"Az ablak %1$s másodperc múlva bezáródik."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Választás megjegyzése %1$s napig"</item>
+    <item priority="Reviewed" quantity="other">"Választás megjegyzése %1$s napig"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d másodperc"</item>
+    <item priority="LT" quantity="other">"%1$d másodperc"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="hiad_ad_label" priority="translator">"REKLÁM"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Reklám"</string>
+    <string name="hiad_app_installed" priority="LT">"A(z) %1$s telepítve van"</string>
+    <string name="hiad_app_open_notification" priority="translator">"A telepítés befejeződött.Érintse meg a megnyitáshoz."</string>
+    <string name="hiad_app_permission" priority="LT">"Jogosultságok"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Hirdetés elrejtve"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Nem érdekel"</string>
+    <string name="hiad_choices_hide" priority="LT">"Hirdetés elrejtése"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Miért láttam ezt a hirdetést?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Mobilhálózat használata %1$s adatforgalmat generál. Folytatja?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"A lejátszás mobiladatot használ. Folytatja?"</string>
+    <string name="hiad_continue_download" priority="LT">"Letöltés"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LETÖLTÉS"</string>
+    <string name="hiad_continue_to_play" priority="LT">"FOLYTATÁS"</string>
+    <string name="hiad_copy_link" priority="LT">"Hivatkozás másolása"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Alkalmazás"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Átugrás"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Átugorható: %d"</string>
+    <string name="hiad_detail" priority="LT">"Részletek"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Letöltés"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ENGEDÉLYEZÉS"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ENGEDÉLYEZ"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"MÉGSE"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LETÖLTÉS"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ÉRTEM"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Engedélyezi %1$s számára, hogy telepítse ezt: %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Forrás: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ENGEDÉLYEZÉS"</string>
+    <string name="hiad_dialog_open" priority="LT">"MEGNYITÁS"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ELUTASÍT"</string>
+    <string name="hiad_dialog_title" priority="LT">"Letölti mobiladat használatával?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Megjegyzés"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Letöltés mobil adatforgalommal?"</string>
+    <string name="hiad_download_download" priority="translator">"TELEPÍTÉS"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LETÖLTÉS (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Hiba lépett fel a(z) %1$s letöltésekor."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fájl megsérült. Töltse le újra."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"A fájl nem létezik. Próbálja újra."</string>
+    <string name="hiad_download_install" priority="LT">"TELEPÍTÉS"</string>
+    <string name="hiad_download_installing" priority="LT">"TELEPÍTÉS"</string>
+    <string name="hiad_download_no_space" priority="LT">"Nincs elegendő tárhely. Szabadítson fel helyet, és próbálja újra."</string>
+    <string name="hiad_download_open" priority="LT">"MEGNYITÁS"</string>
+    <string name="hiad_download_resume" priority="LT">"FOLYTATÁS"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Hiba lépett fel a(z) %1$s letöltésekor. A letöltés újraindul."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Jelenleg nem csatlakozik Wi-Fi-re. Az azonnali letöltés %1$s mobiladat forgalommal jár. Mégis letölti?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Jelenleg nem csatlakozik WLAN-re. Az azonnali letöltés %1$s mobiladat forgalommal jár. Mégis letölti?"</string>
+    <string name="hiad_install_completed" priority="LT">"Kész"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Az oldal meg akarja nyitni a(z) %1$s alkalmazást."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Hivatkozás másolva."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Ez a letöltés %1$s mennyiségű mobiladatot használ fel."</string>
+    <string name="hiad_network_error" priority="LT">"Hálózati kapcsolat hiba."</string>
+    <string name="hiad_network_no_available" priority="LT">"Nincs internetkapcsolat. Ellenőrizze a hálózati beállításait."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Ne emlékeztessen újra"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Nincs Wi-Fi kapcsolat. Ha most tölti le, akkor mobiladatot fog használni. Letölti?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Nincs WLAN kapcsolat. Ha most tölti le, akkor mobiladatot fog használni. Letölti?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Megnyitás böngészőben"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Oldal betöltése sikertelen. Próbálja újra."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"A(z) %1$s az alábbi jogosultságokat igényli:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Várakozás a Wi-Fi-re"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Letöltés mobilhálózaton keresztül?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Várakozás a WLAN-ra"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Adatvédelmi irányelvek"</string>
+    <string name="hiad_refresh" priority="LT">"Frissítés"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB-nál nagyobb alkalmazás"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Kihagyás"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Tovább nézem"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Nézze végig ezt a reklámot a jutalomért."</string>
+    <string name="hiad_whether_download" priority="LT">"Letölti ezt az alkalmazást?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Előtöltés Wi-Fi-n"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Előzetesen betöltve"</string>
+    <string name="hms_abort" priority="translator">"Leállítás"</string>
+    <string name="hms_abort_message" priority="translator">"Leállítja a letöltést?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s nem tudja használni a HMS Core-t. Indítsa el az Optimalizálót (Telefonkezelő), vagy lépjen a Beállításokba és engedélyezze a(z) %2$s összes jogosultságát (beleértve az automatikus indítást és másodlagos indítást), majd próbálja újra."</string>
+    <string name="hms_cancel" priority="translator">"Mégse"</string>
+    <string name="hms_check_failure" priority="translator">"Frissítések keresése sikertelen."</string>
+    <string name="hms_checking" priority="translator">"Frissítések keresése..."</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"A HMS Core csomag letöltése sikertelen."</string>
+    <string name="hms_download_no_space" priority="translator">"Nincs elég tárhely. A letöltés nem fejezhető be."</string>
+    <string name="hms_download_retry" priority="translator">"Letöltés sikertelen. Újrapróbálja?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Letöltés"</string>
+    <string name="hms_install" priority="translator">"Telepítés"</string>
+    <string name="hms_install_message" priority="translator">"A HMS Core telepítve kell legyen a funkció használatához. Telepíti?"</string>
+    <string name="hms_push_channel" priority="Original">"Alapértelmezett"</string>
+    <string name="hms_retry" priority="translator">"Újra"</string>
+    <string name="hms_update" priority="translator">"Frissítés"</string>
+    <string name="hms_update_continue" priority="LT">"Letöltés"</string>
+    <string name="hms_update_message" priority="translator">"A funkció használatához frissítsen a HMS Core legfrissebb verzióra. Frissíti most?"</string>
+    <string name="hms_update_message_new" priority="LT">"A szolgáltatásnak szüksége van az alábbi alkalmazás legfrissebb verziójára:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Nincs Wi-Fi kapcsolat. Letöltés mobil adatforgalommal?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Telepítés"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"%s letöltése…"</string>
+    <string name="upsdk_app_size" priority="translator">"Méret"</string>
+    <string name="upsdk_app_version" priority="translator">"Verzió"</string>
+    <string name="upsdk_appstore_install" priority="translator">"Az alkalmazás frissítéséhez a(z) %s szükséges. Telepíti most?"</string>
+    <string name="upsdk_cancel" priority="translator">"Mégse"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Frissítések keresése..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Frissítés érhető el. Töltse le, és telepítse a legfrissebb verziót."</string>
+    <string name="upsdk_detail" priority="translator">"Részletek"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Információ lekérése sikertelen. Próbálja újra később."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Ön jelenleg mobilhálózatra csatlakozik. A letöltés most %1$s adatforgalmat vesz igénybe."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Nincs internetkapcsolat. Ellenőrizze a hálózati beállításait."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Alkalmazás"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Később"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Kilépés"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Frissítés"</string>
+    <string name="upsdk_ota_title" priority="translator">"Új verzió"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Megszakítja a telepítést?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Telepítés sikertelen."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Igen"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"A verziója naprakész."</string>
+</resources>

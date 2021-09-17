@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Ikkuna sulkeutuu %1$s sekunnin kuluttua."</item>
+    <item priority="translator" quantity="other">"Ikkuna sulkeutuu %1$s sekunnin kuluttua."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="translator" quantity="one">"Muista valinta %1$s päivän"</item>
+    <item priority="translator" quantity="other">"Muista valinta %1$s päivää"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d s"</item>
+    <item priority="LT" quantity="other">"%1$d s"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Vaihto+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"välilyönti"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Valikko+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Jaa sovelluksessa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="hiad_ad_label" priority="translator">"Mainos"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Mainos"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s on asennettu"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Asennus valmis. Avaa koskettamalla."</string>
+    <string name="hiad_app_permission" priority="LT">"Luvat"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Mainos piilotettu"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Ei kiinnosta"</string>
+    <string name="hiad_choices_hide" priority="LT">"Piilota mainos"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Miksi näin tämän mainoksen?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Matkapuhelinverkon käyttö kuluttaa %1$s dataa. Haluatko jatkaa?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Toisto käyttää mobiilidataa. Haluatko jatkaa?"</string>
+    <string name="hiad_continue_download" priority="LT">"Lataa"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LATAA"</string>
+    <string name="hiad_continue_to_play" priority="LT">"JATKA"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopioi linkki"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s Mt"</string>
+    <string name="hiad_default_app_name" priority="LT">"Sovellus"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Ohita"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Ohita: %d"</string>
+    <string name="hiad_detail" priority="LT">"Tiedot"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Lataa"</string>
+    <string name="hiad_dialog_accept" priority="LT">"SALLI"</string>
+    <string name="hiad_dialog_allow" priority="LT">"SALLI"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"PERUUTA"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LATAA"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"YMMÄRRÄN"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Sallitaanko sovelluksen %1$s asentaa %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Lähde: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"SALLI"</string>
+    <string name="hiad_dialog_open" priority="LT">"AVAA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ESTÄ"</string>
+    <string name="hiad_dialog_title" priority="LT">"Ladataanko mobiilidatayhteydellä?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Huomautus"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Päivitetäänkö käyttämällä mobiilidataa?"</string>
+    <string name="hiad_download_download" priority="translator">"ASENNA"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LATAA (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Sovelluksen %1$s lataamisen aikana tapahtui virhe."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Tiedosto on vioittunut. Lataa uudelleen."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Tiedostoa ei löydy. Yritä uudelleen."</string>
+    <string name="hiad_download_install" priority="LT">"ASENNA"</string>
+    <string name="hiad_download_installing" priority="LT">"ASENTAMINEN"</string>
+    <string name="hiad_download_no_space" priority="LT">"Tallennustila ei riitä. Vapauta tilaa ja yritä uudelleen."</string>
+    <string name="hiad_download_open" priority="LT">"AVAA"</string>
+    <string name="hiad_download_resume" priority="LT">"JATKA"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Sovelluksen %1$s lataamisen aikana tapahtui virhe. Lataaminen aloitetaan uudelleen."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Wi-Fi-yhteyttä ei ole. Lataaminen käyttää %1$s mobiilidataa. Ladataanko silti?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"WLAN-yhteyttä ei ole. Lataaminen käyttää %1$s mobiilidataa. Ladataanko silti?"</string>
+    <string name="hiad_install_completed" priority="LT">"Valmis"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Tämä sivu haluaa avata sovelluksen %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Linkki kopioitu."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Tämä lataus käyttää %1$s mobiilidataa."</string>
+    <string name="hiad_network_error" priority="LT">"Verkon yhteysvirhe."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ei Internet-yhteyttä. Tarkista verkkoasetukset."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Älä muistuta uudelleen"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ei Wi-Fi-yhteyttä. Lataaminen nyt käyttää mobiilidataa. Ladataanko?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ei WLAN-yhteyttä. Lataaminen nyt käyttää mobiilidataa. Ladataanko?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Avaa selaimessa"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Sivua ei voitu ladata. Yritä uudelleen."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s vaatii seuraavat käyttöoikeudet:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Odota Wi-Fiä"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Ladataanko mobiiliverkon kautta?"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"Odota WLANia"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Tietosuojakäytäntö"</string>
+    <string name="hiad_refresh" priority="LT">"Päivitä"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"Sovellus yli %1$d Mt"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Ohita"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Jatka katselua"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Katso tämä mainos loppuun ansaitaksesi palkinnon."</string>
+    <string name="hiad_whether_download" priority="LT">"Ladataanko tämä sovellus?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Esiladattu Wi-Fi-yhteydellä"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Esiladattu"</string>
+    <string name="hms_abort" priority="translator">"Lopeta"</string>
+    <string name="hms_abort_message" priority="translator">"Pysäytetäänkö lataus?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s ei voi käyttää HMS Core -palveluja. Käynnistä Optimoija (puhelimen hallinta) tai mene kohtaan Asetukset, ota käyttöön kaikki luvat palvelulle %2$s (mukaan lukien automaattinen käynnistys ja toissijainen käynnistys) ja yritä uudelleen."</string>
+    <string name="hms_cancel" priority="translator">"Peruuta"</string>
+    <string name="hms_check_failure" priority="translator">"Päivitysten tarkistaminen epäonnistui."</string>
+    <string name="hms_checking" priority="translator">"Tarkistetaan päivityksiä…"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"HMS Core -paketin lataus epäonnistui."</string>
+    <string name="hms_download_no_space" priority="translator">"Vapaa tila ei riitä. Latausta ei voi suorittaa."</string>
+    <string name="hms_download_retry" priority="translator">"Lataaminen epäonnistui. Yritetäänkö uudelleen?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Ladataan"</string>
+    <string name="hms_install" priority="translator">"Asenna"</string>
+    <string name="hms_install_message" priority="translator">"HMS Core -palveluiden pitää olla asennettuna, jotta tätä ominaisuutta voi käyttää. Asennetaanko?"</string>
+    <string name="hms_push_channel" priority="Original">"Oletus"</string>
+    <string name="hms_retry" priority="translator">"Yritä uudelleen"</string>
+    <string name="hms_update" priority="translator">"Päivitä"</string>
+    <string name="hms_update_continue" priority="LT">"Lataa"</string>
+    <string name="hms_update_message" priority="translator">"Päivitä HMS Core -palveluiden uusimpaan versioon, jotta voit käyttää tätä ominaisuutta. Päivitetäänkö nyt?"</string>
+    <string name="hms_update_message_new" priority="LT">"Tämä palvelu vaatii seuraavan sovelluksen uusimman version:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Ei Wi-Fi-yhteyttä. Päivitetäänkö käyttämällä mobiilidataa?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Asenna"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"Ladataan %s…"</string>
+    <string name="upsdk_app_size" priority="translator">"Koko"</string>
+    <string name="upsdk_app_version" priority="translator">"Versio"</string>
+    <string name="upsdk_appstore_install" priority="translator">"%s tarvitaan tämän sovelluksen päivitystä varten. Asennetaanko nyt?"</string>
+    <string name="upsdk_cancel" priority="translator">"Peruuta"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Tarkistetaan, onko päivityksiä saatavilla…"</string>
+    <string name="upsdk_choice_update" priority="LT">"Päivitys on saatavana. Lataa ja asenna uusin versio."</string>
+    <string name="upsdk_detail" priority="translator">"Tiedot"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Tietoja ei voitu noutaa. Yritä myöhemmin uudelleen."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Olet tällä hetkellä yhteydessä mobiiliverkkoon. Lataaminen nyt käyttää %1$s dataa."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Ei Internet-yhteyttä. Tarkista verkkoasetukset."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Sovellus"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Myöhemmin"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Poistu"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Päivitä"</string>
+    <string name="upsdk_ota_title" priority="translator">"Uusi versio"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s Mt"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Perutetaanko asennus?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Asennus epäonnistui."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Kyllä"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"Versiosi on ajan tasalla."</string>
+</resources>

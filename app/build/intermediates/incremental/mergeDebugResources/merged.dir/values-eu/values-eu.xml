@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"%1$s segundo barru itxiko da leihoa."</item>
+    <item priority="translator" quantity="other">"%1$s segundo barru itxiko da leihoa."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Gogoratu aukera egun %1$sez"</item>
+    <item priority="Reviewed" quantity="other">"Gogoratu aukera %1$s egunez"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d s"</item>
+    <item priority="LT" quantity="other">"%1$d s"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Joan orri nagusira"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Joan gora"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Aukera gehiago"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Eginda"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ikusi guztiak"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Aukeratu aplikazio bat"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESAKTIBATUTA"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AKTIBATUTA"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ktrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Ezabatu"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Sartu"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funtzioa +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Maius +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Zuriunea"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menua +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Bilatu…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Garbitu kontsulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Bilaketa-kontsulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Bilatu"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Bidali kontsulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ahozko bilaketa"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partekatu hauekin"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Partekatu <ns1:g id="APPLICATION_NAME">%s</ns1:g> aplikazioarekin"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Tolestu"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Iragarkia"</string>
+    <string name="hiad_app_installed" priority="LT">"Instalatu da %1$s."</string>
+    <string name="hiad_app_open_notification" priority="translator">"Instalatu da. Ukitu irekitzeko."</string>
+    <string name="hiad_app_permission" priority="LT">"Baimenak"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Iragarkia ezkutatuta"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Ez zait interesatzen"</string>
+    <string name="hiad_choices_hide" priority="LT">"Ezkutatu iragarkia"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Zergatik ikusi dut iragarki hori?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Sare mugikorra erabiliz gero, datuen %1$s kontsumituko dira. Jarraitu?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Erreprodukzioak datu mugikorrak erabiliko ditu. Jarraitu?"</string>
+    <string name="hiad_continue_download" priority="LT">"Deskargatu"</string>
+    <string name="hiad_continue_download_new" priority="LT">"DESKARGATU"</string>
+    <string name="hiad_continue_to_play" priority="LT">"JARRAITU"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopiatu esteka"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"Aplikazioa"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Saltatu"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Saltatu %d barru"</string>
+    <string name="hiad_detail" priority="LT">"Xehetasunak"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Deskargatu"</string>
+    <string name="hiad_dialog_accept" priority="LT">"BAIMENDU"</string>
+    <string name="hiad_dialog_allow" priority="LT">"BAIMENDU"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"UTZI"</string>
+    <string name="hiad_dialog_close" priority="LT">"ADOS"</string>
+    <string name="hiad_dialog_continue" priority="LT">"DESKARGATU"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"ADOS"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"%1$s aplikazioari %2$s instalatzen utzi nahi diozu?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Iturburua: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"BAIMENDU"</string>
+    <string name="hiad_dialog_open" priority="LT">"IREKI"</string>
+    <string name="hiad_dialog_reject" priority="LT">"UKATU"</string>
+    <string name="hiad_dialog_title" priority="LT">"Datu mugikorrak erabiliz deskargatu?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Oharra"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Datu mugikorrak erabiliz deskargatu nahi duzu?"</string>
+    <string name="hiad_download_download" priority="translator">"INSTALATU"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"DESKARGATU (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Errorea gertatu da %1$s deskargatzean."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Fitxategi hondatua. Deskargatu berriro, mesedez."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Fitxategia ez da existitzen. Saiatu berriro, mesedez."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALATU"</string>
+    <string name="hiad_download_installing" priority="LT">"INSTALATZEN"</string>
+    <string name="hiad_download_no_space" priority="LT">"Ez dago nahiko leku. Libratu lekua eta saiatu berriro."</string>
+    <string name="hiad_download_open" priority="LT">"IREKI"</string>
+    <string name="hiad_download_resume" priority="LT">"JARRAITU"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Errore bat gertatu da %1$s deskargatzean. Deskarga berriro hasiko da."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Ez zaude wifira konektatua une honetan. Orain deskargatzeak datu mugikorren %1$s erabiliko du. Deskargatu hala ere?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Ez zaude WLANera konektatua une honetan. Orain deskargatzeak datu mugikorren %1$s erabiliko du. Deskargatu hala ere?"</string>
+    <string name="hiad_install_completed" priority="LT">"Eginda"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Orrialde honek %1$s ireki nahi du."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Kopiatu da esteka."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"%1$s datu mugikor erabiliko dira deskargan."</string>
+    <string name="hiad_network_error" priority="LT">"Sare-konexioaren errore bat gertatu da."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ez dago Internet konexiorik. Zure sare ezarpenak egiaztatu, mesedez."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Ez gogorarazi berriro"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ez dago wifi konexiorik. Orain deskargatuz gero datu mugikorrak erabiliko dira. Deskargatu nahi duzu?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ez dago WLAN konexiorik. Orain deskargatuz gero datu mugikorrak erabiliko dira. Deskargatu nahi duzu?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Ireki arakatzailean"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Ezin da orria kargatu. Saiatu berriro, mesedez."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s aplikazioak baimen hauek behar ditu:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Itxaron wifia izan arte"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Datu mugikorren bidez deskargatu nahi duzu?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Itxaron WLAN izan arte"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Pribatutasun-gidalerroak"</string>
+    <string name="hiad_refresh" priority="LT">"Birkargatu"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"%1$d MB baino aplikazio handiagoa"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Saltatu"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Jarraitu ikusten"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Saria irabazteko, amaitu iragarkia ikusten."</string>
+    <string name="hiad_whether_download" priority="LT">"Aplikazioa deskargatu nahi duzu?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Wifi bitartez birkargatua"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Aurrekargatuta"</string>
+    <string name="hms_abort" priority="translator">"Gelditu"</string>
+    <string name="hms_abort_message" priority="translator">"Deskarga gelditu?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s gailuak ezin izan du erabili HMS Core. Abiarazi Optimizatzailea (Telefono-kudeatzailea) edo joan ezarpenetara, gaitu %2$s gailuen baimen guztiak (abiarazte automatikoa eta bigarren mailako abiaraztea barne) eta saiatu berriro."</string>
+    <string name="hms_cancel" priority="translator">"Utzi"</string>
+    <string name="hms_check_failure" priority="translator">"Ezin izan da begiratu eguneratzerik baden."</string>
+    <string name="hms_checking" priority="translator">"Eguneratzerik baden begiratzen…"</string>
+    <string name="hms_confirm" priority="translator">"Ados"</string>
+    <string name="hms_download_failure" priority="translator">"Ezin izan da deskargatu HMS Core paketea."</string>
+    <string name="hms_download_no_space" priority="translator">"Ez dago nahikoa toki. Ezin da deskarga amaitu."</string>
+    <string name="hms_download_retry" priority="translator">"Ezin izan da deskargatu. Berriro saiatu?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Deskargatzen"</string>
+    <string name="hms_install" priority="translator">"Instalatu"</string>
+    <string name="hms_install_message" priority="translator">"Eginbidea erabiltzeko, HMS Core-k instalatuta egon behar du. Instalatu?"</string>
+    <string name="hms_push_channel" priority="Original">"Lehenetsia"</string>
+    <string name="hms_retry" priority="translator">"Saiatu berriro"</string>
+    <string name="hms_update" priority="translator">"Eguneratu"</string>
+    <string name="hms_update_continue" priority="LT">"Deskargatu"</string>
+    <string name="hms_update_message" priority="translator">"Eginbidea erabiltzeko, eguneratu HMS Core paketearen azken bertsiora. Orain eguneratu?"</string>
+    <string name="hms_update_message_new" priority="LT">"Zerbitzu honek aplikazio honen azken bertsioa behar du:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Ez dago wifi-konexiorik. Datu mugikorrak erabiliz deskargatu?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Bilatu"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Instalatu"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"%s deskargatzen…"</string>
+    <string name="upsdk_app_size" priority="translator">"Tamaina"</string>
+    <string name="upsdk_app_version" priority="translator">"Bertsioa"</string>
+    <string name="upsdk_appstore_install" priority="translator">"%s behar da aplikazioa eguneratzeko. Instalatu nahi duzu?"</string>
+    <string name="upsdk_cancel" priority="translator">"Utzi"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Eguneratzerik baden begiratzen..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Eguneratzea erabilgarri. Deskargatu eta instalatu azken bertsioa."</string>
+    <string name="upsdk_detail" priority="translator">"Xehetasunak"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Ezin izan da berreskuratu informaziorik. Saiatu berriro geroago."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Une honetan sare mugikorrera konektatuta zaude. Deskargatuz gero, %1$s datu erabiliko dira."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Ez dago Interneteko konexiorik. Egiaztatu sarearen ezarpenak."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"Aplikazioa"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Geroago"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Irten"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Eguneratu"</string>
+    <string name="upsdk_ota_title" priority="translator">"Bertsio berria"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Instalazioa bertan behera utzi?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Ezin izan da instalatu."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Bai"</string>
+    <string name="upsdk_update_check_no_new_version" priority="Reviewed">"Bertsioa eguneratuta dago."</string>
+</resources>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"پنجره ظرف %1$s ثانیه بسته خواهد شد."</item>
+    <item priority="translator" quantity="other">"پنجره ظرف %1$s ثانیه بسته خواهد شد."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"این انتخاب تا %1$s روز به خاطر سپرده شود"</item>
+    <item priority="Reviewed" quantity="other">"این انتخاب تا %1$s روز به خاطر سپرده شود"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d ثانیه"</item>
+    <item priority="LT" quantity="other">"%1$d ثانیه"</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"خاموش"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"روشن"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"‎Alt+‎"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"‎Ctrl+‎"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"‎Function+‎"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"‎Meta+‎"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"‎Shift+‎"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"کلید فاصله"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"‎Sym+‎"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"منو+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"جستجو…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"اشتراک‌گذاری با <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"تبلیغ"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s نصب شده است"</string>
+    <string name="hiad_app_open_notification" priority="translator">"نصب کامل شد. برای باز کردن، لمس کنید."</string>
+    <string name="hiad_app_permission" priority="LT">"مجوزها"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"تبلیغ پنهان شده است"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"علاقه‌ای ندارم"</string>
+    <string name="hiad_choices_hide" priority="LT">"پنهان کردن تبلیغ"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"چرا این تبلیغ را دیدم؟"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"استفاده از شبکۀ تلفن همراه منجر به مصرف %1$s داده خواهد شد. ادامه می‌دهید؟"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"پخش، دادۀ تلفن همراه را مصرف خواهد کرد. ادامه می‌دهید؟"</string>
+    <string name="hiad_continue_download" priority="LT">"دانلود"</string>
+    <string name="hiad_continue_download_new" priority="LT">"دانلود"</string>
+    <string name="hiad_continue_to_play" priority="LT">"ادامه"</string>
+    <string name="hiad_copy_link" priority="LT">"کپی کردن پیوند"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s مگابایت"</string>
+    <string name="hiad_default_app_name" priority="LT">"برنامه"</string>
+    <string name="hiad_default_skip_text" priority="LT">"رد شدن"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"تا %d ثانیۀ دیگر رد کنید"</string>
+    <string name="hiad_detail" priority="LT">"جزئيات"</string>
+    <string name="hiad_detail_download_now" priority="LT">"دانلود"</string>
+    <string name="hiad_dialog_accept" priority="LT">"اجازه دادن"</string>
+    <string name="hiad_dialog_allow" priority="LT">"اجازه دادن"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"لغو"</string>
+    <string name="hiad_dialog_close" priority="LT">"تأ‌یید"</string>
+    <string name="hiad_dialog_continue" priority="LT">"دانلود"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"متوجه شدم"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"به %1$s اجازه می‌دهید %2$s را نصب کند؟"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"منبع: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"اجازه دادن"</string>
+    <string name="hiad_dialog_open" priority="LT">"باز کردن"</string>
+    <string name="hiad_dialog_reject" priority="LT">"غیرمجاز کردن"</string>
+    <string name="hiad_dialog_title" priority="LT">"با استفاده از دادۀ تلفن همراه دانلود شود؟"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"توجه"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"با استفاده از دادۀ تلفن همراه دانلود شود؟"</string>
+    <string name="hiad_download_download" priority="translator">"نصب"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"دانلود (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"در حین دانلود %1$s، خطایی رخ داد."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"فایل خراب است. لطفاً دوباره دانلود کنید."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"فایل وجود ندارد. لطفاً دوباره امتحان کنید."</string>
+    <string name="hiad_download_install" priority="LT">"نصب"</string>
+    <string name="hiad_download_installing" priority="LT">"در حال نصب"</string>
+    <string name="hiad_download_no_space" priority="LT">"ذخیره‌ساز کافی نیست. مقداری از فضا را آزاد و دوباره امتحان کنید."</string>
+    <string name="hiad_download_open" priority="LT">"باز کردن"</string>
+    <string name="hiad_download_resume" priority="LT">"ادامه"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"در حین دانلود %1$s، خطایی رخ داد. دانلود راه‌اندازی مجدد خواهد شد."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"در حال حاضر، به Wi-Fi متصل نیستید. نصب کردن در این زمان %1$s از دادۀ تلفن همراه را مصرف می‌کند. در هر صورت دانلود شود؟"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"در حال حاضر، به WLAN متصل نیستید. نصب کردن در این زمان %1$s از دادۀ تلفن همراه را مصرف می‌کند. در هر صورت دانلود شود؟"</string>
+    <string name="hiad_install_completed" priority="LT">"انجام شد"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"این صفحه می‌خواهد %1$s را باز کند."</string>
+    <string name="hiad_link_already_copied" priority="LT">"پیوند کپی شد."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"این دانلود %1$s از دادۀ تلفن همراه را مصرف خواهد کرد."</string>
+    <string name="hiad_network_error" priority="LT">"خطای اتصال شبکه."</string>
+    <string name="hiad_network_no_available" priority="LT">"اتصال اينترنت وجود ندارد. لطفاً تنظیمات شبکۀ خود را بررسی کنید."</string>
+    <string name="hiad_no_more_remind" priority="LT">"دوباره یادآوری نشود"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"اتصال Wi-Fi وجود ندارد. عملیات دانلود اکنون از دادۀ تلفن همراه شما مصرف خواهد کرد. دانلود شود؟"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"اتصال WLAN وجود ندارد. عملیات دانلود اکنون از دادۀ تلفن همراه شما مصرف خواهد کرد. دانلود شود؟"</string>
+    <string name="hiad_open_in_browser" priority="LT">"باز کردن در مرورگر"</string>
+    <string name="hiad_page_load_failed" priority="LT">"بارگیری صفحه مقدور نیست. لطفاً دوباره امتحان کنید."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s به مجوزهای زیر نیاز دارد:"</string>
+    <string name="hiad_prepare_download" priority="LT">"انتظار برای WI-FI"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"از طریق شبکۀ تلفن همراه دانلود شود؟"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"انتظار برای WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"سیاست حفظ حریم خصوصی"</string>
+    <string name="hiad_refresh" priority="LT">"تازه‌سازی"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"برنامه از %1$d مگابایت بزرگ‌تر است"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"رد شدن"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"ادامۀ تماشا"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"این تبلیغ را تا آخر تماشا کنید و پاداش بگیرید."</string>
+    <string name="hiad_whether_download" priority="LT">"این برنامه دانلود شود؟"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"از طریق Wi-Fi بارگیری اولیه شده"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"از پیش بارگیری‌شده"</string>
+    <string name="hms_abort" priority="translator">"توقف"</string>
+    <string name="hms_abort_message" priority="translator">"دانلود متوقف شود؟"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s قادر به استفاده از HMS Core نیست. «بهینه‌ساز» (مدیر تلفن) را راه‌اندازی کنید یا به «تنظیمات» بروید، همۀ مجوزها (از جمله راه‌اندازی خودکار و راه‌اندازی ثانویه) را برای %2$s فعال کنید، و دوباره امتحان کنید."</string>
+    <string name="hms_cancel" priority="translator">"لغو"</string>
+    <string name="hms_check_failure" priority="translator">"به‌روزرسانی‌های نرم‌افزار بررسی نشد."</string>
+    <string name="hms_checking" priority="translator">"در حال بررسی به‌روزرسانی‌ها..."</string>
+    <string name="hms_confirm" priority="translator">"تأييد"</string>
+    <string name="hms_download_failure" priority="translator">"دانلود بسته HMS Core انجام نشد."</string>
+    <string name="hms_download_no_space" priority="translator">"فضای آزاد کافی موجود نيست. تکميل دانلود ممکن نيست."</string>
+    <string name="hms_download_retry" priority="translator">"دانلود ناموفق بود. دوباره سعی کنيد؟"</string>
+    <string name="hms_downloading_loading" priority="LT">"در حال دانلود"</string>
+    <string name="hms_install" priority="translator">"نصب"</string>
+    <string name="hms_install_message" priority="translator">"برای استفاده از این ویژگی، HMS Core باید نصب شود. نصب شود؟"</string>
+    <string name="hms_push_channel" priority="Original">"پيش‌فرض"</string>
+    <string name="hms_retry" priority="translator">"تلاش مجدد"</string>
+    <string name="hms_update" priority="translator">"به‌روزرسانى"</string>
+    <string name="hms_update_continue" priority="LT">"دانلود"</string>
+    <string name="hms_update_message" priority="translator">"برای استفاده از این ویژگی، به آخرین نسخه از HMS Core به‌روزرسانی کنید. اکنون به‌روزرسانی شود؟"</string>
+    <string name="hms_update_message_new" priority="LT">"این سرویس به آخرین نسخۀ برنامۀ ذیل نیاز دارد:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"اتصال Wi-Fi وجود ندارد. با استفاده از دادۀ تلفن همراه دانلود شود؟"</string>
+    <string name="hms_update_title" priority="LT">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"جستجو"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"نصب"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"در حال دانلود %s…"</string>
+    <string name="upsdk_app_size" priority="translator">"اندازه"</string>
+    <string name="upsdk_app_version" priority="translator">"نسخه"</string>
+    <string name="upsdk_appstore_install" priority="translator">"برای به‌روزرسانی این برنامه، %s لازم است. اکنون نصب شود؟"</string>
+    <string name="upsdk_cancel" priority="translator">"لغو"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"در حال بررسی به‌روزرسانی‌ها…"</string>
+    <string name="upsdk_choice_update" priority="LT">"به‌روز‌رسانی موجود است. لطفاً جدیدترین نسخه را دانلود و نصب کنید."</string>
+    <string name="upsdk_detail" priority="translator">"جزئیات"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"بازیابی اطلاعات مقدور نیست. لطفاً بعداً دوباره امتحان کنید."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"شما در حال حاضر به یک شبکۀ تلفن همراه متصل هستید. اگر الآن دانلود کنید، %1$s داده مصرف خواهد شد."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"اتصال اينترنتی موجود نیست. لطفاً تنظیمات شبکۀ خود را بررسی کنید."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"برنامه"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"بعداً"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"خروج"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"به‌روزرسانى"</string>
+    <string name="upsdk_ota_title" priority="translator">"نسخۀ جدید"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s مگابایت"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"نصب لغو شود؟"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"نصب انجام نشد."</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"بله"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"نسخۀ شما به‌روز است."</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Downloads\\Futurewei\\pwabuilder-cloudapk--3369-i6y6PtkvkNA5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-car-v8\\values-car-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\73f3c773ee4ead9f02248afe10f975cd\\update-3.0.1.300\\res\\values-car-v8\\values-car-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,162",
+                        "endColumns": "52,53,52",
+                        "endOffsets": "103,157,210"
+                    }
+                }
+            ]
+        }
+    ]
+}

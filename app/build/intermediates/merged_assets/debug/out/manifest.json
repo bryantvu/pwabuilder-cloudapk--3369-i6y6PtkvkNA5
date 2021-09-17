@@ -1,0 +1,10 @@
+{
+    "name": "Sad Chonks",
+    "short_name": "Sad Chonks",
+    "description": "Sad Chonks",
+    "start_url": "https://sadchonks.com",
+    "scope": "/any/",
+    "display": "fullscreen",
+    "orientation": "default",
+    "lang": "English"
+}

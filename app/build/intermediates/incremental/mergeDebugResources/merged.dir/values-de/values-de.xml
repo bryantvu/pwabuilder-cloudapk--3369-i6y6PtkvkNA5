@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Fenster wird in %1$s Sekunde geschlossen"</item>
+    <item priority="translator" quantity="other">"Fenster wird in %1$s Sekunden geschlossen"</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="translator" quantity="one">"Auswahl %1$s Tag merken"</item>
+    <item priority="translator" quantity="other">"Auswahl %1$s Tage merken"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="translator" quantity="one">"%1$d Sek."</item>
+    <item priority="LT" quantity="other">"%1$d Sek."</item>
+</plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Leertaste +"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="hiad_ad_label" priority="translator">"WERBUNG"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Werbung"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s wurde installiert"</string>
+    <string name="hiad_app_open_notification" priority="translator">"Installation abgeschlossen, zum Öffnen antippen."</string>
+    <string name="hiad_app_permission" priority="LT">"Berechtigungen"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Werbung ausgeblendet"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Nicht interessiert"</string>
+    <string name="hiad_choices_hide" priority="translator">"Werbung ausblenden"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Warum wurde mir diese Werbung angezeigt?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Bei der Nutzung eines mobilen Netzwerks werden %1$s Daten verbraucht. Fortfahren?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Für die Wiedergabe werden mobile Daten verwendet. Fortfahren?"</string>
+    <string name="hiad_continue_download" priority="LT">"Herunterladen"</string>
+    <string name="hiad_continue_download_new" priority="LT">"HERUNTERLADEN"</string>
+    <string name="hiad_continue_to_play" priority="LT">"FORTFAHREN"</string>
+    <string name="hiad_copy_link" priority="LT">"Link kopieren"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Überspringen"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"In %d überspringen"</string>
+    <string name="hiad_detail" priority="LT">"Details"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Herunterladen"</string>
+    <string name="hiad_dialog_accept" priority="LT">"ZULASSEN"</string>
+    <string name="hiad_dialog_allow" priority="LT">"ZULASSEN"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"ABBRECHEN"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"HERUNTERLADEN"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"OK"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Zulassen, dass %1$s %2$s installiert?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Quelle: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"ZULASSEN"</string>
+    <string name="hiad_dialog_open" priority="LT">"ÖFFNEN"</string>
+    <string name="hiad_dialog_reject" priority="LT">"ABLEHNEN"</string>
+    <string name="hiad_dialog_title" priority="LT">"Über mobile Daten herunterladen?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Hinweis"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Über mobile Daten herunterladen?"</string>
+    <string name="hiad_download_download" priority="translator">"INSTALLIEREN"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"HERUNTERLADEN (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Beim Herunterladen von %1$s ist ein Fehler aufgetreten."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Die Datei ist beschädigt, laden Sie sie erneut herunter."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Die Datei existiert nicht, versuchen Sie es erneut."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALLIEREN"</string>
+    <string name="hiad_download_installing" priority="LT">"INSTALLIEREN"</string>
+    <string name="hiad_download_no_space" priority="LT">"Nicht genügend Speicherplatz. Geben Sie Speicherplatz frei und versuchen Sie es erneut."</string>
+    <string name="hiad_download_open" priority="LT">"ÖFFNEN"</string>
+    <string name="hiad_download_resume" priority="LT">"WEITER"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Beim Herunterladen von %1$s ist ein Fehler aufgetreten. Herunterladen wird neu gestartet."</string>
+    <string name="hiad_download_use_mobile_network" priority="translator">"Sie sind zurzeit nicht mit WLAN verbunden. Das Herunterladen verbraucht %1$s mobile Daten. Trotzdem herunterladen?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Sie sind zurzeit nicht mit WLAN verbunden. Das Herunterladen verbraucht %1$s mobile Daten. Trotzdem herunterladen?"</string>
+    <string name="hiad_install_completed" priority="translator">"Fertig"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Diese Seite möchte %1$s öffnen."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Link kopiert"</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Beim Herunterladen werden %1$s an mobilen Daten verbraucht."</string>
+    <string name="hiad_network_error" priority="LT">"Netzwerkverbindungsfehler"</string>
+    <string name="hiad_network_no_available" priority="LT">"Keine Internetverbindung, prüfen Sie Ihre Netzwerkeinstellungen."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Nicht erneut erinnern"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Keine WLAN-Verbindung. Beim Herunterladen werden mobile Daten genutzt. Herunterladen?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Keine WLAN-Verbindung. Beim Herunterladen werden mobile Daten genutzt. Herunterladen?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Im Browser öffnen"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Laden der Seite nicht möglich, versuchen Sie es erneut."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s benötigt die folgenden Berechtigungen:"</string>
+    <string name="hiad_prepare_download" priority="translator">"Auf WLAN warten"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Über Mobilfunknetz herunterladen?"</string>
+    <string name="hiad_prepare_download_zh" priority="translator">"Auf WLAN warten"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Datenschutzrichtlinie"</string>
+    <string name="hiad_refresh" priority="LT">"Aktualisieren"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"App größer als %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Überspringen"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Weiter anschauen"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Schauen Sie die Werbung ganz an, um eine Prämie zu erhalten."</string>
+    <string name="hiad_whether_download" priority="LT">"Diese App herunterladen?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Über WLAN vorgeladen"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Vorinstalliert"</string>
+    <string name="hms_abort" priority="translator">"Anhalten"</string>
+    <string name="hms_abort_message" priority="translator">"Download anhalten?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s kann HMS Core nicht nutzen. Öffnen Sie Optimizer (Telefonmanager) oder gehen Sie zu Einstellungen, um sämtliche Berechtigungen für %2$s zu aktivieren (einschließlich Auto-Start und sekundärem Start) und es anschließend erneut zu versuchen."</string>
+    <string name="hms_cancel" priority="translator">"Abbrechen"</string>
+    <string name="hms_check_failure" priority="translator">"Fehler bei der Suche nach Aktualisierungen."</string>
+    <string name="hms_checking" priority="translator">"Aktualisierungen werden gesucht …"</string>
+    <string name="hms_confirm" priority="translator">"OK"</string>
+    <string name="hms_download_failure" priority="translator">"Fehler beim Herunterladen des HMS Core-Pakets."</string>
+    <string name="hms_download_no_space" priority="translator">"Nicht genügend freier Speicherplatz. Download kann nicht abgeschlossen werden."</string>
+    <string name="hms_download_retry" priority="translator">"Download fehlgeschlagen. Erneut versuchen?"</string>
+    <string name="hms_downloading_loading" priority="LT">"Herunterladen"</string>
+    <string name="hms_install" priority="translator">"Installieren"</string>
+    <string name="hms_install_message" priority="translator">"HMS Core muss installiert sein, um diese Funktion zu nutzen. Installieren?"</string>
+    <string name="hms_push_channel" priority="Original">"Standard"</string>
+    <string name="hms_retry" priority="translator">"Wiederholen"</string>
+    <string name="hms_update" priority="translator">"Aktualisieren"</string>
+    <string name="hms_update_continue" priority="LT">"Herunterladen"</string>
+    <string name="hms_update_message" priority="translator">"Aktualisieren Sie auf die neueste Version von HMS Core, um diese Funktion verwenden zu können. Jetzt aktualisieren?"</string>
+    <string name="hms_update_message_new" priority="LT">"Dieser Dienst benötigt die neueste Version der folgenden App:\n\n%1$s"</string>
+    <string name="hms_update_nettype" priority="LT">"Keine WLAN-Verbindung, über mobile Daten herunterladen?"</string>
+    <string name="hms_update_title" priority="translator">"HMS Core"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"Installieren"</string>
+    <string name="upsdk_app_download_installing" priority="translator">"%s herunterladen ..."</string>
+    <string name="upsdk_app_size" priority="translator">"Größe"</string>
+    <string name="upsdk_app_version" priority="translator">"Version"</string>
+    <string name="upsdk_appstore_install" priority="translator">"Zum Aktualisieren dieser App ist %s erforderlich. Jetzt installieren?"</string>
+    <string name="upsdk_cancel" priority="translator">"Abbrechen"</string>
+    <string name="upsdk_checking_update_prompt" priority="LT">"Nach Aktualisierungen suchen ..."</string>
+    <string name="upsdk_choice_update" priority="LT">"Aktualisierung verfügbar. Laden und installieren Sie die neuste Version."</string>
+    <string name="upsdk_detail" priority="translator">"Details"</string>
+    <string name="upsdk_getting_message_fail_prompt_toast" priority="translator">"Abrufen von Informationen nicht möglich. Versuchen Sie es später erneut."</string>
+    <string name="upsdk_mobile_dld_warn" priority="translator">"Sie sind derzeit mit einem Mobilfunknetz verbunden. Das Herunterladen verbraucht %1$s an Daten."</string>
+    <string name="upsdk_no_available_network_prompt_toast" priority="translator">"Keine Internetverbindung. Prüfen Sie Ihre Netzwerkeinstellungen."</string>
+    <string name="upsdk_ota_app_name" priority="LT">"App"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"Später"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="LT">"Beenden"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"Aktualisieren"</string>
+    <string name="upsdk_ota_title" priority="translator">"Neue Version"</string>
+    <string name="upsdk_storage_utils" priority="LT">"%1$s MB"</string>
+    <string name="upsdk_third_app_dl_cancel_download_prompt_ex" priority="translator">"Installation abbrechen?"</string>
+    <string name="upsdk_third_app_dl_install_failed" priority="translator">"Installieren fehlgeschlagen"</string>
+    <string name="upsdk_third_app_dl_sure_cancel_download" priority="translator">"Ja"</string>
+    <string name="upsdk_update_check_no_new_version" priority="LT">"Ihre Version ist auf dem neuesten Stand."</string>
+</resources>

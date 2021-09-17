@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:hwads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        hwads:layout_constraintStart_toStartOf="parent"
+        hwads:layout_constraintTop_toTopOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/customViewContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        hwads:layout_constraintStart_toStartOf="parent"
+        hwads:layout_constraintTop_toTopOf="parent"
+        android:visibility="gone"
+        />
+
+    <com.huawei.hms.ads.banner.BannerView
+        android:id="@+id/top_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        hwads:adId="@string/banner_ad_id"
+        hwads:bannerSize="BANNER_SIZE_320_50"
+        hwads:layout_constraintEnd_toEndOf="parent"
+        hwads:layout_constraintStart_toStartOf="parent"
+        hwads:layout_constraintTop_toTopOf="parent" />
+
+    <com.huawei.hms.ads.banner.BannerView
+        android:id="@+id/bot_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        hwads:adId="@string/banner_ad_id"
+        hwads:bannerSize="BANNER_SIZE_320_50"
+        hwads:layout_constraintBottom_toBottomOf="parent"
+        hwads:layout_constraintEnd_toEndOf="parent"
+        hwads:layout_constraintStart_toStartOf="parent" />
+
+    <com.huawei.hms.ads.splash.SplashView
+        android:id="@+id/splash_ad_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</android.support.constraint.ConstraintLayout>
+
